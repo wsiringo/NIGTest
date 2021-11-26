@@ -3,3 +3,9 @@
 ################################################################################
 
 /DayToDate/obj/Debug
+/DayToDate.Tests/obj/Debug
+/.vs/DayToDate/v16
+/DayToDate/bin
+/DayToDate.Tests/bin/Debug
+/packages
+/.vs
