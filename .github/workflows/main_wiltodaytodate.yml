@@ -53,5 +53,5 @@ jobs:
         with:
           app-name: 'wiltodaytodate'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_63CEF450B676490F849964DA46EB3A70 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_A93FF92F97A84BA093AEEFD72FC76BB9 }}
           package: .
