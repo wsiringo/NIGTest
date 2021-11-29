@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Web;
 
-namespace DayToDate.Classes
+namespace DayToDate.Srv.Classes
 {
     public class NextDayDateFinder
     {

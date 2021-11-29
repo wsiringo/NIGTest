@@ -9,3 +9,7 @@
 /DayToDate.Tests/bin/Debug
 /packages
 /.vs
+/DayToDate/obj/Release
+/DayToDate.Srv/bin
+/DayToDate.Srv/obj/Debug
+/DayToDate.Tests/obj/Release
