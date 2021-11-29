@@ -13,3 +13,5 @@
 /DayToDate.Srv/bin
 /DayToDate.Srv/obj/Debug
 /DayToDate.Tests/obj/Release
+/DayToDate.Srv/obj/Release/Package
+/DayToDate.Srv/obj/Release

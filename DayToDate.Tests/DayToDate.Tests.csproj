@@ -100,7 +100,6 @@
   <ItemGroup>
     <Compile Include="Classes\NextDayDateFinderTest.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="Controllers\DaynextdateControllerTest.cs" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="App.config" />
@@ -109,9 +108,9 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\DayToDate\DayToDate.csproj">
-      <Project>{1BD88B74-9B0F-4CF7-B218-A52E0D3C84FB}</Project>
-      <Name>DayToDate</Name>
+    <ProjectReference Include="..\DayToDate.Srv\DayToDate.Srv.csproj">
+      <Project>{aec4315d-6ead-45c9-a770-7ea45b7fee76}</Project>
+      <Name>DayToDate.Srv</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
